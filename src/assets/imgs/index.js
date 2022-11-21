@@ -1,0 +1,9 @@
+export {default as cover}from './cover.png';
+export {default as bootstrap}from './bootstrap.png';
+export {default as css}from './css.png';
+export {default as js}from './js.png';
+export {default as node}from './node.png';
+export {default as react}from './react.png';
+export {default as sass}from './sass.png';
+export {default as vs}from './vs.png';
+export {default as vue}from './vue.png';
